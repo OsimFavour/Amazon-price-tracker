@@ -8,8 +8,12 @@ Have a Bot that tracks the price of your product steadily on Amazon every mornin
 
 # Tools
 
-Python
-Requests-HTML
-SMTPLib
+<ul>
+  <li>Python</li>
+  <li>Requests-HTML</li>
+  <li>SMTPLib<li/>
+ </ul>
+
+
 
 
